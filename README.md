@@ -1,4 +1,4 @@
 # python-calculator-program
 Python calculator app 🖩
-using tkinter import
-getting the gui of calculator in python
+using Tkinter import ,
+getting the GUI of **calculator** in python
